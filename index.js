@@ -1,5 +1,4 @@
 const { prompt } = require('inquirer');
-const svg2img = require('svg2img');
 const fs = require('fs');
 
 
