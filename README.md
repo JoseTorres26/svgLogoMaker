@@ -5,6 +5,7 @@
 
 ## Description
 
+https://www.loom.com/share/bd6730ed5580416b8ef360deb7ac3560
 
 This is an svg logo maker! This little cli is created to make either a square, circle, or triangle with three characters inside with any color of your choosing! 
 
